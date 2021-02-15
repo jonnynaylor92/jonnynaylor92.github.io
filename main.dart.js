@@ -46246,7 +46246,7 @@ N.W7.prototype={
 $1:function(a){return!0},
 $S:30}
 F.xw.prototype={
-M:function(a,b){return new S.pk(new F.py("Flutter Demo Home Page",null),"Flutter Demo",X.a2n(null,C.lQ),null)}}
+M:function(a,b){return new S.pk(new F.py("Jonny Naylor's portfolio",null),"Jonathan Naylor - Portfolio",X.a2n(null,C.lQ),null)}}
 F.py.prototype={
 aO:function(){return new F.td(C.m)}}
 F.td.prototype={
