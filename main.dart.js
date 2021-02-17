@@ -15683,12 +15683,12 @@ ZD:function(){var s=0,r=P.a4(t.H),q,p,o,n
 var $async$ZD=P.a0(function(a,b){if(a===1)return P.a1(b,r)
 while(true)switch(s){case 0:if($.bh==null)N.a5I()
 $.bh.toString
-p=new X.Tl(64,64,4,2)
-p.KY(4,"stickman_left.png",2,64,64)
+p=new X.Tl(256,256,8,1)
+p.KY(8,"button1_sheet.png",1,256,256)
 o=new X.qq(p,null)
 $.a7D=o
-n=p.e[1]
-o.e=X.ack(C.b.bj(n,0,4),!0,0.2)
+n=p.e[0]
+o.e=X.ack(C.b.bj(n,0,8),!0,0.2)
 s=3
 return P.a5($.a25().by(0,"stickman_left.png"),$async$ZD)
 case 3:s=1
