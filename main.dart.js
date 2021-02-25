@@ -14721,7 +14721,7 @@ _.e=e},
 In:function In(){},
 aiw:function(a,b,c){var s,r,q,p,o,n,m=b.b
 if(m<=0||b.a<=0||c.b<=0||c.a<=0)return C.vx
-switch(a){case C.oE:s=c
+switch(a){case C.cp:s=c
 r=b
 break
 case C.tl:q=c.a
@@ -14730,7 +14730,7 @@ o=b.a
 s=q/p>o/m?new P.Q(o*p/m,p):new P.Q(q,m*q/o)
 r=b
 break
-case C.cp:q=c.a
+case C.oE:q=c.a
 p=c.b
 o=b.a
 r=q/p>o/m?new P.Q(o,o*p/q):new P.Q(m*q/p,m)
@@ -53128,7 +53128,7 @@ Q.OG.prototype={
 $1:function(a){return new Q.mx(this.a.c,null)},
 $S:330}
 Q.mx.prototype={
-F:function(a,b){var s=null,r=t.w,q=b.a0(r).f,p=b.a0(r).f,o=X.mc(C.oE,new M.eV("images/paper.png",1,s,s),s),n=b.a0(r).f
+F:function(a,b){var s=null,r=t.w,q=b.a0(r).f,p=b.a0(r).f,o=X.mc(C.cp,new M.eV("images/paper.png",1,s,s),s),n=b.a0(r).f
 r=b.a0(r).f
 return new E.yj(M.b8(s,T.el(H.c([new T.qz(M.b8(s,s,C.k,s,s,new S.co(s,X.mc(s,new M.eV(this.c,1,s,s),s),s,s,s,s,C.K),s,r.a.b*0.6,s,s,s,s,n.a.a*0.8),s),M.b8(s,L.ex("(You can zoom/drag the image)",s),C.k,s,s,s,s,s,s,s,s,s,s),Z.a2S(),T.ht(M.b8(C.a7,L.ex('This photo was taken on my camera by clicking the "take photo" with my right index finger, quite some work really!',s),C.k,s,s,s,s,s,new V.aJ(10,10,10,10),new V.aJ(10,10,10,10),s,s,s),s,s)],t.Z),C.a5,C.az),C.k,s,s,new S.co(s,o,s,s,s,s,C.K),s,p.a.b*0.9,s,new V.aJ(30,30,30,30),s,s,q.a.a*0.8),s)}}
 V.je.prototype={
@@ -53270,7 +53270,7 @@ C.h.N(1/0,p,o)
 return T.el(r.n5(s),C.a5,C.az)}},
 $S:105}
 A.a1V.prototype={
-$1:function(a){var s=null,r=K.acD(new P.bJ(5,5)),q=U.Ox(a,C.cp,1000),p=H.c([P.bs(200,0,0,0),P.bs(0,0,0,0)],t.r8)
+$1:function(a){var s=null,r=K.acD(new P.bJ(5,5)),q=U.Ox(a,C.oE,1000),p=H.c([P.bs(200,0,0,0),P.bs(0,0,0,0)],t.r8)
 return M.b8(s,M.b8(s,T.a5E(r,T.e0(C.aF,H.c([q,T.Rm(0,M.b8(s,L.ex("No. "+C.b.iR($.a9V,a)+" image",A.e4(s,s,C.j,s,s,s,s,s,s,s,s,20,s,C.bW,s,s,!0,s,s,s,s,s,s)),C.k,s,s,new S.co(s,s,s,s,s,new T.kF(C.oi,C.oj,C.hi,p,s,s),C.K),s,s,s,new V.aJ(20,10,20,10),s,s,s),s,s,0,0,s,s)],t.Z),C.aC)),C.k,s,s,s,s,s,new V.aJ(5,5,5,5),s,s,s,s),C.k,s,s,s,s,s,s,s,s,s,s)},
 $S:338}
 A.n8.prototype={
@@ -55718,9 +55718,9 @@ C.oD=new S.ab(1/0,1/0,1/0,1/0)
 C.lp=new S.ab(0,1/0,0,1/0)
 C.tj=new S.ab(280,1/0,0,1/0)
 C.tk=new S.ab(48,1/0,48,1/0)
-C.oE=new U.hs("BoxFit.fill")
+C.cp=new U.hs("BoxFit.fill")
 C.tl=new U.hs("BoxFit.contain")
-C.cp=new U.hs("BoxFit.cover")
+C.oE=new U.hs("BoxFit.cover")
 C.tm=new U.hs("BoxFit.fitWidth")
 C.tn=new U.hs("BoxFit.fitHeight")
 C.to=new U.hs("BoxFit.none")
