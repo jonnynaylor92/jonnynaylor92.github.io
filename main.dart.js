@@ -48893,7 +48893,7 @@ K.lN.prototype={
 G:function(a,b){var s=null,r=t.Z
 return M.tc(s,T.h1(C.aZ,H.b([M.a2_("paper"),M.bg(s,E.Ck(T.ed(H.b([new V.j6(s),M.bg(s,new T.cH(C.ir,this.qO(),s),s,s,s,s,s,s,s)],r),C.a2,C.ax)),s,s,s,s,s,s,s)],r),C.aW))},
 mx:function(a){var s="Font2",r=null,q=t.Z
-return H.b([M.bg(r,T.ed(H.b([L.en("I like helping others to be creative",A.dY(r,r,C.m,r,r,r,r,r,s,r,r,40,r,C.bM,r,r,!0,r,r,r,r,r,r)),L.en("building tools to empower others to create is a core part of my aims",A.dY(r,r,C.m,r,r,r,r,r,s,r,r,32,r,r,r,r,!0,r,r,r,r,r,r)),new T.cH(C.nV,L.en("I've built numerous tools to empower others",A.dY(r,r,C.m,r,r,r,r,r,s,r,r,16,r,r,r,r,!0,r,r,r,r,r,r)),r)],q),C.hb,C.ax),r,r,r,r,r,r,a),new T.cH(C.nU,new T.d2(new S.an(0,300,0,1/0),U.Oq("assets/images/ngod1.jpg",r,a),r),r)],q)},
+return H.b([M.bg(r,T.ed(H.b([L.en("I like helping others to be creativeeeeeee",A.dY(r,r,C.m,r,r,r,r,r,s,r,r,40,r,C.bM,r,r,!0,r,r,r,r,r,r)),L.en("building tools to empower others to create is a core part of my aims",A.dY(r,r,C.m,r,r,r,r,r,s,r,r,32,r,r,r,r,!0,r,r,r,r,r,r)),new T.cH(C.nV,L.en("I've built numerous tools to empower others",A.dY(r,r,C.m,r,r,r,r,r,s,r,r,16,r,r,r,r,!0,r,r,r,r,r,r)),r)],q),C.hb,C.ax),r,r,r,r,r,r,a),new T.cH(C.nU,new T.d2(new S.an(0,300,0,1/0),U.Oq("assets/images/ngod1.jpg",r,a),r),r)],q)},
 qO:function(){return new A.mM(new K.JH(this),null)}}
 K.JH.prototype={
 $2:function(a,b){var s=b.b,r=this.a,q=b.a,p=b.c,o=b.d
@@ -53008,7 +53008,7 @@ $.afX=H.b([0,0,0,0],t.Y)
 $.a1W=null
 $.a5i=null
 $.a1Z=function(){var s=t.z
-return P.aP(["paper","images/paper.png"],s,s)}()
+return P.aP(["paper","assets/images/paper.png"],s,s)}()
 $.a3T=H.b([],t.i)
 $.a9s=!1
 $.a9r=H.b(["assets/images/gallery/chilli_road_1.jpg","assets/images/gallery/chilli_road_2.jpg","assets/images/gallery/chilli_road_3.jpg","assets/images/gallery/claremont_tower.jpg"],t.i)
