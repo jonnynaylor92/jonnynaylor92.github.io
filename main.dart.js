@@ -56905,7 +56905,7 @@ G:function(a,b){var s=null,r=t.t
 return M.dp(s,T.cu(C.Y,H.c([$.dw(),M.U(s,E.dK(T.aj(H.c([new V.cN(s),M.U(s,new T.aQ(C.ag,this.a01(),s),C.i,s,s,s,s,s,s,s,s,s,s)],r),C.n,C.m,C.k)),C.i,s,s,s,s,s,s,s,s,s,s)],r),C.W))},
 a01:function(){return new A.ch(new K.RH(this),null)},
 aS:function(a){var s="Varela",r=null,q=t.t
-return H.c([M.U(r,T.aj(H.c([G.aV("Creative software developer",!0,20,s,!1,!1,!1,"h1",C.u),T.ae(r,16,r),G.aV("Working on educational games",!1,20,s,!1,!1,!1,"p1",C.u),T.ae(r,25,r),G.aV("My background is in programming, art and science - I believe that multimedia entertainment and story-telling is a brilliant way to help teach",!1,20,s,!1,!1,!1,"h3",C.u),T.e9(new T.aQ(C.fh,G.agG(),r),r,r),T.ae(r,10,r)],q),C.T,C.m,C.k),C.i,r,r,r,r,r,r,r,r,r,a)],q)}}
+return H.c([M.U(r,T.aj(H.c([G.aV("Creative software developer",!0,20,s,!1,!1,!1,"h1",C.u),T.ae(r,16,r),G.aV("Working on educational games",!1,20,s,!1,!1,!1,"h3",C.u),T.ae(r,25,r),G.aV("My background is in programming, art and science - I believe that multimedia entertainment and story-telling is a brilliant way to help teach",!1,20,s,!1,!1,!1,"h3",C.u),T.e9(new T.aQ(C.fh,G.agG(),r),r,r),T.ae(r,10,r)],q),C.T,C.m,C.k),C.i,r,r,r,r,r,r,r,r,r,a)],q)}}
 K.RH.prototype={
 $2:function(a,b){var s=b.b,r=this.a,q=b.a,p=b.c,o=b.d
 if(s>800){s=C.f.A(1/0,q,s)
