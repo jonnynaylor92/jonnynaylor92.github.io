@@ -17697,8 +17697,9 @@ if(a>1400)s=50
 if(a>1600)s=53
 if(a<700)s=30
 if(a<600)s=25
-if(a<500)s=19
-if(a<400)s=15
+if(a<500)s=23
+if(a<400)s=20
+if(a<360)s=16
 return a<300?10:s},
 a7S:function(a,b,c,d){var s=null
 return R.ry(!1,!0,G.aV(b,!1,d,"Font2",!0,!0,!1,"h1",C.u),s,!0,s,s,s,s,s,s,s,s,s,new V.a51(a,c),s,s,s)},
