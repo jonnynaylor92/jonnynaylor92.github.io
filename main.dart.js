@@ -17656,13 +17656,13 @@ if(a>300)s=20
 if(a>360)s=22
 if(a>400)s=25
 if(a>500)s=28
-if(a>600)s=31
-if(a>700)s=35
-if(a>800)s=38
-if(a>1000)s=40
-if(a>1200)s=46
-if(a>1400)s=50
-return a>1600?53:s},
+if(a>600)s=32
+if(a>700)s=34
+if(a>800)s=36
+if(a>1000)s=38
+if(a>1200)s=40
+if(a>1400)s=42
+return a>1600?40:s},
 a7S:function(a,b,c,d){var s=null
 return R.nk(!1,!0,G.L(b,!1,d,"Font2",!0,!0,!1,"h1",C.i),s,!0,s,s,s,s,s,s,s,s,s,new V.a4T(a,c),s,s,s)},
 t6:function t6(a){this.a=a},
@@ -56872,11 +56872,11 @@ A.za.prototype={
 J:function(a,b){return new A.fq(new A.Nc(this),null)}}
 A.Nc.prototype={
 $2:function(a,b){var s,r,q=null,p=this.a,o=p.e,n=p.f,m=b.b
-if(m>1200){o*=2
-n*=2
+if(m>1200){o*=1.5
+n*=1.5
 s=34
-r=!0}else{if(m>800){o*=1.5
-n*=1.5}s=q
+r=!0}else{if(m>800){o*=1.3
+n*=1.3}s=q
 r=!1}return R.nk(!1,!0,T.lJ(C.cE,H.b([M.a8(q,U.dz($.age.h(0,p.y),q,q),q,q,q,n,q,q,o),M.a8(q,T.bW(G.L(p.c,p.z,s,"Font2",r,!1,!1,"p2",C.i),q,q),q,q,q,n,q,q,o)],t.t),C.cA),q,!0,q,q,q,q,q,q,q,q,q,new A.Nb(p,a),q,q,q)},
 $S:355}
 A.Nb.prototype={
@@ -56952,7 +56952,7 @@ $S:120}
 G.MW.prototype={
 $2:function(a,b){var s,r=this,q=r.a,p=r.b,o=r.c,n=r.d,m=r.e,l=r.f
 if(b.b>1200){s=t.t
-return T.aG(H.b([T.cY(H.b([G.a8X(q,p,o,n,m,l,2),G.a8W(G.bl(m,C.x,50,l/2,5,l/4,!1),n,a)],s),C.A,C.nm),G.cd(15,"dashed",50)],s),C.A,C.n,C.p)}else{q=G.a8X(q,p,o,n,m,l,1)
+return T.aG(H.b([T.cY(H.b([G.a8X(q,p,o,n,m,l,2.1),G.a8W(G.bl(m,C.x,50,l/2.1,5,l/4,!1),n,a)],s),C.A,C.nm),G.cd(15,"dashed",50)],s),C.A,C.n,C.p)}else{q=G.a8X(q,p,o,n,m,l,1)
 p=l<800
 o=p?l:800
 return T.aG(H.b([q,G.a8W(G.bl(m,C.x,10,o,5,p?l/2:400,!1),n,a),G.cd(55,"dashed",50)],t.t),C.u,C.nm,C.p)}},
@@ -61720,7 +61720,7 @@ $.age=function(){var s=t.T
 return P.at(["1","assets/images/buttons/button3.png","2","assets/images/buttons/button5.png","3","assets/images/buttons/button6.png","4","assets/images/buttons/button_arrow.png","5","assets/images/buttons/button7.png","art","assets/images/buttons/pButton_art.png","photography","assets/images/buttons/pButton_photography.png","phd","assets/images/buttons/pButton_phd.png","publications","assets/images/buttons/pButton_publications.png","videos","assets/images/buttons/pButton_videos.png","software","assets/images/buttons/pButton_software.png","games","assets/images/buttons/pButton_games.png","music","assets/images/buttons/pButton_music.png"],s,s)}()
 $.a5W="desktop"
 $.ahi=function(){var s=t.z
-return P.at(["h1",48,"h2",35,"h3",26,"p1",26,"p2",25,"p3",24],s,s)}()
+return P.at(["h1",43,"h2",32,"h3",16,"p1",26,"p2",25,"p3",24],s,s)}()
 $.ahk=function(){var s=t.z
 return P.at(["h1",43,"h2",32,"h3",24,"p1",23,"p2",22,"p3",21],s,s)}()
 $.ahj=function(){var s=t.z
