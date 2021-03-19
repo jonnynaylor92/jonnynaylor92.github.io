@@ -8248,7 +8248,7 @@ z2:function(a,b){return G.a5Y(!1,C.o,"none",$.Aa.h(0,a),b)},
 agz:function(){return new A.fp(new G.MY(),null)},
 ji:function(a,b,c,d,e,f){return new A.fp(new G.MX(a,b,c,d,e,f),null)},
 a8Y:function(a,b,c,d,e,f,g){var s=null
-return M.aa(s,T.aE(H.c([G.V(a+" - "+b,!0,20,"Antic",!1,!0,!1,"h2",C.j),G.V(c,!1,20,"Varela",!1,!1,!1,"h3",C.j),T.K(s,10,s),A.jj("Read more",d,18,60,120),T.K(s,25,s)],t.t),C.r,C.n,C.p),s,new S.ae(0,f/g,0,1/0),s,s,s,s,s)},
+return M.aa(s,T.aE(H.c([G.V(a+" - "+b,!0,20,"Antic",!1,!0,!1,"h2",C.j),G.V(c,!1,20,"Varela",!1,!1,!1,"h3",C.j),T.K(s,10,s),A.jj("Read more",d,!1,18,60,"1",120),T.K(s,25,s)],t.t),C.r,C.n,C.p),s,new S.ae(0,f/g,0,1/0),s,s,s,s,s)},
 cz:function(a,b,c){var s=null
 return T.aE(H.c([T.K(s,a,s),K.t1(b),T.K(s,c,s)],t.t),C.F,C.n,C.p)},
 d3:function(a,b,c,d,e,f,g){var s=null
@@ -11311,15 +11311,17 @@ _.fy=!0
 _.go=null
 _.a=0
 _.c=_.b=null},
-jj:function(a,b,c,d,e){var s=t.T
-return new A.zb(P.at(["1","assets/images/buttons/button3.png","2","assets/images/buttons/button5.png","3","assets/images/buttons/button6.png","4","assets/images/buttons/button_arrow.png","5","assets/images/buttons/button7.png"],s,s),a,b,e,d,null)},
-zb:function zb(a,b,c,d,e,f){var _=this
+jj:function(a,b,c,d,e,f,g){var s=t.T
+return new A.zb(P.at(["1","assets/images/buttons/button3.png","2","assets/images/buttons/button5.png","3","assets/images/buttons/button6.png","4","assets/images/buttons/button_arrow.png","5","assets/images/buttons/button7.png","art","assets/images/buttons/pButton_art.png","photography","assets/images/buttons/pButton_photography.png","phd","assets/images/buttons/pButton_phd.png","publications","assets/images/buttons/pButton_publications.png"],s,s),a,b,g,e,f,c,null)},
+zb:function zb(a,b,c,d,e,f,g,h){var _=this
 _.c=a
 _.d=b
 _.e=c
 _.f=d
 _.r=e
-_.a=f},
+_.z=f
+_.Q=g
+_.a=h},
 Nd:function Nd(a){this.a=a},
 Nc:function Nc(a,b){this.a=a
 this.b=b},
@@ -56879,7 +56881,7 @@ n*=2
 s=34
 r=!0}else{if(m>800){o*=1.5
 n*=1.5}s=q
-r=!1}return R.nl(!1,!0,T.lJ(C.cE,H.c([M.aa(q,U.dx(p.c.h(0,"1"),q,q),q,q,q,n,q,q,o),M.aa(q,T.ds(G.V(p.d,!1,s,"Font2",r,!1,!1,"p2",C.j),q,q),q,q,q,n,q,q,o)],t.t),C.cA),q,!0,q,q,q,q,q,q,q,q,q,new A.Nc(p,a),q,q,q)},
+r=!1}return R.nl(!1,!0,T.lJ(C.cE,H.c([M.aa(q,U.dx(p.c.h(0,p.z),q,q),q,q,q,n,q,q,o),M.aa(q,T.ds(G.V(p.d,p.Q,s,"Font2",r,!1,!1,"p2",C.j),q,q),q,q,q,n,q,q,o)],t.t),C.cA),q,!0,q,q,q,q,q,q,q,q,q,new A.Nc(p,a),q,q,q)},
 $S:355}
 A.Nc.prototype={
 $0:function(){return P.bY([K.a6y(this.b,this.a.e,t._)],t.mU)},
@@ -56976,7 +56978,7 @@ $S:56}
 E.v6.prototype={}
 K.mj.prototype={
 c_:function(a){var s=this,r="dashed",q=null,p=t.t
-return H.c([M.aa(q,T.aE(H.c([s.n5("Raised in Bradford and lived in Newcastle for 8 years","I had a multicultural upbringing in Bradford that inspired me to understand others' perspectives, I then went to study at Newcastle University in 2011","assets/images/icons/icon_home.gif"),G.cz(5,r,25),s.n5("Qualified programmer","I have a Ph.D and Bachelors in Computing Science - I've built scientific tools and some games","assets/images/icons/icon_programmer.png"),G.cz(5,r,25),s.n5("Hobby artist","I've drawn/sketched throughout my life and have also done animation, video editing, music production, painting and photography. I've done commisioned work and integrated my art into my software where possible.","assets/images/icons/icon_artist.png"),G.cz(5,r,25),s.n5("Published Scientist","I have 4 papers with reputable publishers - my work focuses on 3D simulation of biological cells","assets/images/icons/icon_scientist.gif"),G.cz(5,r,25),s.n5("I like helping others to be creative","Building tools that empower others to create is a core part of my aims","assets/images/icons/icon_tools.png"),G.cz(5,r,25),T.aE(H.c([G.V("Places I've travelled to",!0,20,"Varela",!1,!1,!1,"h1",C.j),T.a6J(q,q,C.iY,!0,q,new Q.cW(q,H.c([new Q.cW("\n",q,G.z2("h3","Font2")),s.iT("Andorra","Arinsal"),s.iT("France","Brittany, Paris, Toulouse, Versailles"),s.iT("Germany","Berlin, Karlsruhe"),s.iT("Netherlands","Amsterdam"),s.iT("Spain","Murcia, Sevilla, Solu"),s.iT("India","Delhi, Kasol, Kolkata, Manali"),s.iT("Italy","Florence, Volterra"),s.iT("North America","New York, Texas")],t.B2),q),C.aL,q,q,1,C.cC)],p),C.r,C.n,C.p)],p),C.r,C.n,C.p),q,q,q,q,q,q,a)],p)},
+return H.c([M.aa(q,T.aE(H.c([s.n5("Raised in Bradford and lived in Newcastle for 8 years","I had a multicultural upbringing in Bradford that inspired me to understand others' perspectives, I then went to study at Newcastle University in 2011","assets/images/icons/icon_home.gif"),G.cz(5,r,25),s.n5("Qualified programmer","I have a Ph.D and Bachelors in Computing Science - I've built scientific tools and some games","assets/images/icons/icon_programmer.png"),G.cz(5,r,25),s.n5("Hobby artist","I've drawn/sketched throughout my life and have also done animation, video editing, music production, painting and photography. I've done commisioned work and integrated my art into my software where possible.","assets/images/icons/icon_artist.png"),G.cz(5,r,25),s.n5("Published Scientist","I have 4 papers with reputable publishers - my work focuses on 3D simulation of biological cells","assets/images/icons/icon_scientist.gif"),G.cz(5,r,25),s.n5("I like helping others to be creative","Building tools that empower others to create is a core part of my aims","assets/images/icons/icon_tools.png"),G.cz(5,r,25),T.aE(H.c([G.V("Places I've travelled to",!0,20,"Varela",!1,!1,!1,"h1",C.j),T.a6J(q,q,C.iY,!0,q,new Q.cW(q,H.c([new Q.cW("\n",q,G.z2("h3","Font2")),s.iT("Andorra","Arinsal"),s.iT("France","Brittany, Paris, Toulouse, Versailles"),s.iT("Germany","Berlin, Karlsruhe"),s.iT("India","Delhi, Kasol, Kolkata, Manali"),s.iT("Italy","Florence, Volterra"),s.iT("Netherlands","Amsterdam"),s.iT("North America","New York, Texas"),s.iT("Spain","Murcia, Sevilla, Solu")],t.B2),q),C.aL,q,q,1,C.cC)],p),C.r,C.n,C.p)],p),C.r,C.n,C.p),q,q,q,q,q,q,a)],p)},
 iT:function(a,b){var s="h3",r=null,q="Font2"
 return new Q.cW(r,H.c([new Q.cW(a,r,G.z2(s,"Antic")),new Q.cW(" - ",r,G.z2(s,q)),new Q.cW(b+"\n",r,G.z2(s,q)),new Q.cW("\n",r,G.z2(s,q))],t.B2),r)},
 n5:function(a,b,c){var s=null,r=G.V(a,!0,20,"Varela",!1,!1,!1,"h1",C.j),q=T.K(s,10,s),p=G.V(b,!1,20,"Varela",!1,!1,!1,"h3",C.j),o=U.dx(c,s,s),n=t.t
@@ -57200,7 +57202,7 @@ $2:function(a,b){this.a.push(G.ji(b.b,b.c,b.d,b.y,b.z,this.b))},
 $S:56}
 X.nZ.prototype={
 c_:function(a){var s=null,r=t.t
-return H.c([M.aa(s,T.aE(H.c([G.V("Browse my work",!0,20,"Varela",!1,!1,!1,"h1",C.j),T.K(s,15,s),G.V("My work and hobbies have been heavily intertwined over the years - you can browse different areas of my work with the buttons below",!1,20,"Varela",!1,!1,!1,"h3",C.j),T.K(s,30,s),M.aa(s,T.ZI(H.c([A.jj("Art","/portfolio/art",23,60,120),A.jj("Photography","/portfolio/image",23,60,120),A.jj("Videos","/portfolio/video",23,60,120),A.jj("Software","/portfolio/software",23,60,120),A.jj("Games","/portfolio/games",23,60,120),A.jj("Music","/portfolio/music",23,60,120),A.jj("Ph.D","/portfolio/phd",23,60,120),A.jj("Publications","/publications",23,60,120)],r),C.lA),s,s,s,s,s,s,s),G.cz(25,"dashed",25)],r),C.r,C.n,C.p),s,s,s,s,s,s,a)],r)}}
+return H.c([M.aa(s,T.aE(H.c([G.V("Browse my work",!0,20,"Varela",!1,!1,!1,"h1",C.j),T.K(s,15,s),G.V("My work and hobbies have been heavily intertwined over the years - you can browse different areas of my work with the buttons below",!1,20,"Varela",!1,!1,!1,"h3",C.j),T.K(s,30,s),M.aa(s,T.ZI(H.c([A.jj("Art","/portfolio/art",!0,23,60,"art",120),A.jj("Photography","/portfolio/image",!0,23,60,"photography",120),A.jj("Videos","/portfolio/video",!0,23,60,"1",120),A.jj("Software","/portfolio/software",!0,23,60,"1",120),A.jj("Games","/portfolio/games",!0,23,60,"1",120),A.jj("Music","/portfolio/music",!0,23,60,"1",120),A.jj("Ph.D","/portfolio/phd",!0,23,60,"phd",120),A.jj("Publications","/publications",!0,23,60,"publications",120)],r),C.lA),s,s,s,s,s,s,s),G.cz(25,"dashed",25)],r),C.r,C.n,C.p),s,s,s,s,s,s,a)],r)}}
 T.mS.prototype={
 c_:function(a){var s=null,r=t.i,q=t.t
 return H.c([M.aa(s,T.aE(H.c([G.kF("Easybiotics","2018"),T.K(s,15,s),G.cz(40,"dashed",20),G.kH(H.c(["- Designing user interfaces","- Creating my own API for separate software to communicate","- Developing file formats for storing structured information"],r),16),T.K(s,20,s),G.kG(H.c(["- Python, bash"],r),16)],q),C.r,C.n,C.p),s,s,s,s,s,s,a)],q)}}
