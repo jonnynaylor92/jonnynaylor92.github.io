@@ -61720,7 +61720,7 @@ $.age=function(){var s=t.T
 return P.at(["1","assets/images/buttons/button3.png","2","assets/images/buttons/button5.png","3","assets/images/buttons/button6.png","4","assets/images/buttons/button_arrow.png","5","assets/images/buttons/button7.png","art","assets/images/buttons/pButton_art.png","photography","assets/images/buttons/pButton_photography.png","phd","assets/images/buttons/pButton_phd.png","publications","assets/images/buttons/pButton_publications.png","videos","assets/images/buttons/pButton_videos.png","software","assets/images/buttons/pButton_software.png","games","assets/images/buttons/pButton_games.png","music","assets/images/buttons/pButton_music.png"],s,s)}()
 $.a5W="desktop"
 $.ahi=function(){var s=t.z
-return P.at(["h1",43,"h2",32,"h3",16,"p1",26,"p2",25,"p3",24],s,s)}()
+return P.at(["h1",43,"h2",32,"h3",26,"p1",26,"p2",25,"p3",24],s,s)}()
 $.ahk=function(){var s=t.z
 return P.at(["h1",43,"h2",32,"h3",24,"p1",23,"p2",22,"p3",21],s,s)}()
 $.ahj=function(){var s=t.z
