@@ -57236,7 +57236,7 @@ $S:123}
 G.Na.prototype={
 $2:function(a,b){var s,r=this,q=r.a,p=r.b,o=r.c,n=r.d,m=r.e,l=r.f
 if(b.b>1200){s=t.t
-return T.aJ(H.b([T.fw(H.b([G.a9t(q,p,o,n,m,l,2.1),G.a9s(G.h5(m,C.al,50,l/2.5,5,l/4,!1),n,a)],s),C.O,C.o),G.cD(35,"dashed",80)],s),C.O,C.o,C.p)}else{q=G.a9t(q,p,o,n,m,l,1)
+return T.aJ(H.b([T.fw(H.b([G.a9t(q,p,o,n,m,l,2.1),T.B(null,null,80),G.a9s(G.h5(m,C.al,50,l/2.5,5,l/4,!1),n,a)],s),C.O,C.o),G.cD(35,"dashed",80)],s),C.O,C.o,C.p)}else{q=G.a9t(q,p,o,n,m,l,1)
 p=l<800
 o=p?l:800
 return T.aJ(H.b([q,G.a9s(G.h5(m,C.al,10,o,5,p?l/2:400,!1),n,a),G.cD(55,"dashed",50)],t.t),C.u,C.jM,C.p)}},
@@ -57258,7 +57258,7 @@ $S:57}
 E.vb.prototype={}
 K.ml.prototype={
 bZ:function(a){var s=this,r="dashed",q=null,p=t.t
-return H.b([M.ac(q,T.aJ(H.b([s.n5("Raised in Bradford and lived in Newcastle for 8 years","I had a multicultural upbringing in Bradford that inspired me to understand others' perspectives. I went to study at Newcastle University in 2011 and have had the priveledge to travel quite a bit.","assets/images/icons/icon_home.gif"),G.cD(5,r,25),s.n5("Qualified programmer","I have a Ph.D and Bachelors in Computing Science - I've built and published scientific tools, and have also created some tools/games for me and my friends.","assets/images/icons/icon_programmer.png"),G.cD(5,r,25),s.n5("Hobby artist","I've drawn/sketched throughout my life and have also done animation, video editing, music production, painting and photography. I've done commisioned work and integrated my art into my software where possible.","assets/images/icons/icon_artist.png"),G.cD(5,r,25),s.n5("Published Scientist","I have 4 papers with reputable publishers - my work and Ph.D thesis focuses on 3D simulation of multicellular systems, particaly bacterial communities.","assets/images/icons/icon_scientist.gif"),G.cD(5,r,25),s.n5("I like helping others to be creative","Building tools that empower others to create is a core part of my aims. In all of my software and games I try to empower the user as much as possible and give them freedom to express themselves.","assets/images/icons/icon_tools.png"),G.cD(5,r,25),T.aJ(H.b([G.H("Places I've travelled to",!0,20,"Varela",!1,!1,!1,"h1",C.h),T.a7a(q,q,C.cZ,!0,q,new Q.cW(q,H.b([new Q.cW("\n",q,G.z8("h3","Font2")),s.iW("Andorra","Arinsal"),s.iW("France","Brittany, Paris, Toulouse, Versailles"),s.iW("Germany","Berlin, Karlsruhe"),s.iW("India","Delhi, Kasol, Kolkata, Manali"),s.iW("Italy","Florence, Volterra"),s.iW("Netherlands","Amsterdam"),s.iW("North America","New York, Texas"),s.iW("Spain","Murcia, Sevilla, Solu")],t.B2),q),C.ai,q,q,1,C.be)],p),C.u,C.o,C.p)],p),C.u,C.o,C.p),q,q,q,q,q,q,a)],p)},
+return H.b([M.ac(q,T.aJ(H.b([s.n5("Raised in Bradford and lived in Newcastle for 8 years","I had a multicultural upbringing in Bradford that inspired me to understand others' perspectives. I went to study at Newcastle University in 2011 and have had the priveledge to travel quite a bit.","assets/images/icons/icon_home.gif"),G.cD(25,r,45),s.n5("Qualified programmer","I have a Ph.D and Bachelors in Computing Science - I've built and published scientific tools, and have also created some tools/games for me and my friends.","assets/images/icons/icon_programmer.png"),G.cD(25,r,45),s.n5("Hobby artist","I've drawn/sketched throughout my life and have also done animation, video editing, music production, painting and photography. I've done commisioned work and integrated my art into my software where possible.","assets/images/icons/icon_artist.png"),G.cD(25,r,45),s.n5("Published Scientist","I have 4 papers with reputable publishers - my work and Ph.D thesis focuses on 3D simulation of multicellular systems, particaly bacterial communities.","assets/images/icons/icon_scientist.gif"),G.cD(25,r,45),s.n5("I like helping others to be creative","Building tools that empower others to create is a core part of my aims. In all of my software and games I try to empower the user as much as possible and give them freedom to express themselves.","assets/images/icons/icon_tools.png"),G.cD(25,r,45),T.aJ(H.b([G.H("Places I've travelled to",!0,20,"Varela",!1,!1,!1,"h1",C.h),T.a7a(q,q,C.cZ,!0,q,new Q.cW(q,H.b([new Q.cW("\n",q,G.z8("h3","Font2")),s.iW("Andorra","Arinsal"),s.iW("France","Brittany, Paris, Toulouse, Versailles"),s.iW("Germany","Berlin, Karlsruhe"),s.iW("India","Delhi, Kasol, Kolkata, Manali"),s.iW("Italy","Florence, Volterra"),s.iW("Netherlands","Amsterdam"),s.iW("North America","New York, Texas"),s.iW("Spain","Murcia, Sevilla, Solu")],t.B2),q),C.ai,q,q,1,C.be)],p),C.u,C.o,C.p)],p),C.u,C.o,C.p),q,q,q,q,q,q,a)],p)},
 iW:function(a,b){var s="h3",r=null,q="Font2"
 return new Q.cW(r,H.b([new Q.cW(a,r,G.z8(s,"Antic")),new Q.cW(" - ",r,G.z8(s,q)),new Q.cW(b+"\n",r,G.z8(s,q)),new Q.cW("\n",r,G.z8(s,q))],t.B2),r)},
 n5:function(a,b,c){return new A.eN(new K.Lr(a,b,!1,c),null)}}
@@ -57280,7 +57280,7 @@ return T.aJ(H.b([new V.tc(s),M.ac(s,new T.c5(C.f2,this.xq(a),s),s,s,s,s,s,s,s)],
 xq:function(a){return new A.eN(new E.Og(this),null)}}
 E.Og.prototype={
 $2:function(a,b){var s=b.b,r=this.a
-if(s>800)return T.fw(r.bZ(s/1.3),C.u,C.bo)
+if(s>720)return T.fw(r.bZ(s/1.3),C.u,C.bo)
 else return T.aJ(r.bZ(s),C.u,C.bo,C.p)},
 $S:125}
 U.mB.prototype={
