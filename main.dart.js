@@ -60611,11 +60611,11 @@ c4:function(a){var s=null,r=t.t
 return H.b([M.af(s,T.aN(H.b([G.F("Software I've made",!0,20,"Varela",!1,!1,!1,"h1",C.f),T.y(s,10,s),T.y(s,25,s),G.ll("Simbiotics","2016","A modelling toolkit for simulating bacterial communities in 3D. The platform lets you create your own models using state of the art bio-modelling techniques.","/portfolio/simbiotics",u.J,a),G.ll("Easybiotics","2018","A graphical user interface for using Simbiotics - allows biologists to build and simulate models without doing any programming","/portfolio/easybiotics",u.N,a)],r),C.u,C.n,C.p),s,s,s,s,s,s,a)],r)}}
 X.qe.prototype={
 c4:function(b7){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4="h1",a5="Varela",a6=null,a7="h3",a8=G.F("The Garden",!0,20,a5,!1,!1,!1,a4,C.f),a9=T.y(a6,12,a6),b0=G.F("The Garden is an educational game for KS2 Science. It resembles typical games that kids play after school rather than traditional educational games \u2013 it\u2019s not just an animated spreadsheet.",!1,20,a5,!1,!1,!1,a7,C.f),b1=T.y(a6,12,a6),b2=G.F("It's a 2D game where the player explores a virtual world where they can solve puzzles, collect resources and use them to craft useful items.",!1,20,a5,!1,!1,!1,a7,C.f),b3=T.y(a6,60,a6),b4=b7*0.45,b5=b4<800,b6=b5?b4:800
-b6=G.e0("assets/images/thegarden/1.png",C.a5,10,b6,5,b5?b4/2:400,!0)
+b6=G.e0("assets/images/thegarden/1.PNG",C.a5,10,b6,5,b5?b4/2:400,!0)
 s=T.y(a6,a6,50)
 r=b5?b4:800
 q=t.t
-b4=T.fR(H.b([b6,s,G.e0("assets/images/thegarden/3.png",C.a5,10,r,5,b5?b4/2:400,!0)],q),C.P,C.n)
+b4=T.fR(H.b([b6,s,G.e0("assets/images/thegarden/3.PNG",C.a5,10,r,5,b5?b4/2:400,!0)],q),C.P,C.n)
 r=T.y(a6,60,a6)
 s=G.F("Common game mechanics such as fighting monsters and collecting weapons are replaced with finding knowledge/items and using them to solve puzzles.",!1,20,a5,!1,!1,!1,a7,C.f)
 b6=T.y(a6,12,a6)
@@ -60631,7 +60631,7 @@ h=G.F("You play as this stick-person and explore this world, you soon find out t
 g=T.y(a6,120,a6)
 b5=b7<800
 f=b5?b7:800
-f=T.cb(G.e0("assets/images/thegarden/2.png",C.a5,10,f,5,b5?b7/2:400,!0),a6,a6)
+f=T.cb(G.e0("assets/images/thegarden/2.PNG",C.a5,10,f,5,b5?b7/2:400,!0),a6,a6)
 e=T.y(a6,40,a6)
 d=T.y(a6,60,a6)
 c=G.F("How does the game teach?",!0,20,a5,!1,!1,!1,a4,C.f)
@@ -60641,7 +60641,7 @@ a0=T.y(a6,12,a6)
 a1=G.F("Each part of the curriculum is weaved into the gameplay, there are not necessarily specific lessons for each part of the curriculum - rather some puzzles may cover a range of curriculum topics, some may be refreshers, and parts of the story may give real-world context to that knowledge.",!1,20,a5,!1,!1,!1,a7,C.f)
 a2=T.y(a6,120,a6)
 a3=b5?b7:800
-return H.b([M.af(a6,T.aN(H.b([a8,a9,b0,b1,b2,b3,b4,r,s,b6,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,T.cb(G.e0("assets/images/thegarden/4.png",C.a5,10,a3,5,b5?b7/2:400,!0),a6,a6),T.y(a6,40,a6),T.y(a6,60,a6),G.F("How does the game assess student's learning?",!0,20,a5,!1,!1,!1,a4,C.f),T.y(a6,15,a6),G.F("The ingame achievements a player is rewarded with correlate to parts of the school curriculum",!1,20,a5,!1,!1,!1,a7,C.f),T.y(a6,12,a6),G.F("When the player demonstrates knowledge in the game they are rewarded with achievements, confirming that they have learnt and applied that knowledge",!1,20,a5,!1,!1,!1,a7,C.f),T.y(a6,60,a6),G.F("What's unique about the game?",!0,20,a5,!1,!1,!1,a4,C.f),T.y(a6,15,a6),G.F("Currently there are few if any educational games that resemble typical games kids will play. The Garden attempts to fill this space by providing an action adventure game that just so happens to have a context of KS2 science.",!1,20,a5,!1,!1,!1,a7,C.f),T.y(a6,12,a6),G.F("The careful combination of teaching, entertainment and assessment is also a unique aspect of the game, allowing kids, parents and teachers to relate to the game.",!1,20,a5,!1,!1,!1,a7,C.f),T.cb(S.rV(this.e,$.av2,b7),a6,a6),T.y(a6,40,a6),K.oN("dashed"),T.y(a6,20,a6),G.du("Technologies used",H.b(["- Java","- LibGDX","- JSON","- GIT","- Inkscape","- GNU Image Manipulator"],t.i),16)],q),C.u,C.n,C.p),a6,a6,a6,a6,a6,a6,b7)],q)}}
+return H.b([M.af(a6,T.aN(H.b([a8,a9,b0,b1,b2,b3,b4,r,s,b6,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,T.cb(G.e0("assets/images/thegarden/4.PNG",C.a5,10,a3,5,b5?b7/2:400,!0),a6,a6),T.y(a6,40,a6),T.y(a6,60,a6),G.F("How does the game assess student's learning?",!0,20,a5,!1,!1,!1,a4,C.f),T.y(a6,15,a6),G.F("The ingame achievements a player is rewarded with correlate to parts of the school curriculum",!1,20,a5,!1,!1,!1,a7,C.f),T.y(a6,12,a6),G.F("When the player demonstrates knowledge in the game they are rewarded with achievements, confirming that they have learnt and applied that knowledge",!1,20,a5,!1,!1,!1,a7,C.f),T.y(a6,60,a6),G.F("What's unique about the game?",!0,20,a5,!1,!1,!1,a4,C.f),T.y(a6,15,a6),G.F("Currently there are few if any educational games that resemble typical games kids will play. The Garden attempts to fill this space by providing an action adventure game that just so happens to have a context of KS2 science.",!1,20,a5,!1,!1,!1,a7,C.f),T.y(a6,12,a6),G.F("The careful combination of teaching, entertainment and assessment is also a unique aspect of the game, allowing kids, parents and teachers to relate to the game.",!1,20,a5,!1,!1,!1,a7,C.f),T.cb(S.rV(this.e,$.av2,b7),a6,a6),T.y(a6,40,a6),K.oN("dashed"),T.y(a6,20,a6),G.du("Technologies used",H.b(["- Java","- LibGDX","- JSON","- GIT","- Inkscape","- GNU Image Manipulator"],t.i),16)],q),C.u,C.n,C.p),a6,a6,a6,a6,a6,a6,b7)],q)}}
 U.qh.prototype={
 c4:function(a){var s="Font2",r=null,q=t.t
 return H.b([M.af(r,T.aN(H.b([L.h1("Take the tour",r,A.dV(r,r,C.o,r,r,r,r,r,s,r,r,40,r,C.ay,r,r,!0,r,r,r,r,r,r,r),r,r),L.h1("My work and hobbies have been intertwined over the years - I see programming as an extension of my art, and it gives my art an engineering and product-oriented motive",r,A.dV(r,r,C.o,r,r,r,r,r,s,r,r,22,r,r,r,r,!0,r,r,r,r,r,r,r),r,r),new T.cr(C.f7,L.h1("",r,A.dV(r,r,C.o,r,r,r,r,r,s,r,r,16,r,r,r,r,!0,r,r,r,r,r,r,r),r,r),r),Z.ae2(),T.fR(H.b([M.af(r,U.f2("images/buttons/button4.png",r,r),r,r,r,100,r,r,200),T.y(r,r,50),M.af(r,U.f2("images/buttons/button3.png",r,r),r,r,r,100,r,r,200)],q),C.P,C.n)],q),C.u,C.n,C.p),r,r,r,r,r,r,a),new T.cr(C.iT,new T.fs(new S.ah(0,300,0,1/0),U.f2("assets/images/ngod1.jpg",r,a),r),r)],q)}}
@@ -65162,7 +65162,7 @@ $.avi=function(){var s=t.z
 return P.ao(["sim17","https://pubs.acs.org/doi/10.1021/acssynbio.6b00315","pop18","https://www.mdpi.com/2075-1729/8/3/33","easy19","https://academic.oup.com/bioinformatics/article-abstract/35/19/3859/5364017?redirectedFrom=fulltext","tow20","https://www.frontiersin.org/articles/10.3389/fbioe.2020.00705/full"],s,s)}()
 $.av0=function(){var s=t.z
 return P.ao(["sim17","assets/images/gallery/publications/simbiotics_paper.png","pop18","assets/images/gallery/publications/auto_paper.png","easy19","assets/images/gallery/publications/easy_paper.png","tow20","assets/images/gallery/publications/towards_paper.png"],s,s)}()
-$.av2=H.b(["assets/images/thegarden/4.png","assets/images/thegarden/5.png","assets/images/thegarden/6.png","assets/images/thegarden/7.png","assets/images/thegarden/8.png","assets/images/thegarden/9.png"],t.i)
+$.av2=H.b(["assets/images/thegarden/4.PNG","assets/images/thegarden/5.PNG","assets/images/thegarden/6.PNG","assets/images/thegarden/7.PNG","assets/images/thegarden/8.PNG","assets/images/thegarden/9.PNG"],t.i)
 $.aW=null
 $.apw=P.w(t.Em,H.V("apv*"))})();(function lazyInitializers(){var s=hunkHelpers.lazy,r=hunkHelpers.lazyFinal,q=hunkHelpers.lazyOld
 s($,"axg","ac7",function(){return H.Du(8)})
