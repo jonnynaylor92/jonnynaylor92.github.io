@@ -60759,12 +60759,12 @@ Z.pR.prototype={
 bN:function(a){var s=null,r=t.t
 return H.b([M.ab(s,T.aH(H.b([G.u("Software I've made",!0,20,"Varela",!1,!1,!1,"h1",C.f),T.k(s,10,s),T.k(s,25,s),G.ll("Simbiotics","2016","A modelling toolkit for simulating bacterial communities in 3D. The platform lets you create your own models using state of the art bio-modelling techniques.","/portfolio/simbiotics",u.J,a),G.ll("Easybiotics","2018","A graphical user interface for using Simbiotics - allows biologists to build and simulate models without doing any programming","/portfolio/easybiotics",u.N,a)],r),C.r,C.l,C.o),s,s,s,s,s,s,a)],r)}}
 T.qf.prototype={
-bN:function(d0){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4="h1",b5="Varela",b6=null,b7="h3",b8=G.u("Game Features",!0,20,b5,!1,!1,!1,b4,C.f),b9=T.k(b6,12,b6),c0=G.u("test text",!1,20,b5,!1,!1,!1,b7,C.f),c1=T.k(b6,12,b6),c2=T.k(b6,80,b6),c3=G.u("Day and night cycle",!0,20,b5,!1,!1,!1,b4,C.f),c4=T.k(b6,15,b6),c5=G.u("The game has a day-night cycle of about 20 minutes. This cycles the lighting of the game giving the feeling that the world is dynamic and alive.",!1,20,b5,!1,!1,!1,b7,C.f),c6=G.u("This also gives the opportunity to add things to that game that behave different during the day/night.",!1,20,b5,!1,!1,!1,b7,C.f),c7=T.k(b6,40,b6),c8=d0<800,c9=c8?d0:800
-c9=T.ax(G.b8("assets/images/thegarden/3.PNG",C.v,10,c9,5,c8?d0/2:400,!0),b6,b6)
+bN:function(e5){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4="h1",b5="Varela",b6=null,b7="h3",b8=G.u("Game Features",!0,20,b5,!1,!1,!1,b4,C.f),b9=T.k(b6,12,b6),c0=G.u("This is an overview of the main gameplay features. These are actions the player can take and behaviours of the world they are in.",!1,20,b5,!1,!1,!1,b7,C.f),c1=T.k(b6,12,b6),c2=T.k(b6,80,b6),c3=G.u("Player movement",!0,20,b5,!1,!1,!1,b4,C.f),c4=T.k(b6,15,b6),c5=G.u("The player can walk in all directions on the 2D world, and can jump / jump and frontflip. These movement mechanics allow the player to traverse the environment in their own way.",!1,20,b5,!1,!1,!1,b7,C.f),c6=G.u("Player movement influences the world around them, such as flowers dancing when you walk near them.",!1,20,b5,!1,!1,!1,b7,C.f),c7=T.k(b6,80,b6),c8=G.u("Interacting with objects and game characters",!0,20,b5,!1,!1,!1,b4,C.f),c9=T.k(b6,15,b6),d0=G.u("When the player is close to an interactive character/object it is highlighted in red and the player can click on it to interact.",!1,20,b5,!1,!1,!1,b7,C.f),d1=G.u("This can be used to start conversations, pick up items, change the state of an object (such as pulling a lever), and starting a puzzle mini-game",!1,20,b5,!1,!1,!1,b7,C.f),d2=T.k(b6,80,b6),d3=G.u("Puzzle mini-games",!0,20,b5,!1,!1,!1,b4,C.f),d4=T.k(b6,15,b6),d5=G.u("When interacting with some puzzles they appear as a pop-up screen where they are presented with a mini-game.",!1,20,b5,!1,!1,!1,b7,C.f),d6=G.u("These mini-games teach/assess parts of the curriculum, such as a puzzle where the player must drag labels of a plant onto a diagram.",!1,20,b5,!1,!1,!1,b7,C.f),d7=T.k(b6,80,b6),d8=G.u("Day and night cycle",!0,20,b5,!1,!1,!1,b4,C.f),d9=T.k(b6,15,b6),e0=G.u("The game has a day-night cycle of about 20 minutes. This cycles the lighting of the game giving the feeling that the world is dynamic and alive.",!1,20,b5,!1,!1,!1,b7,C.f),e1=G.u("This also gives the opportunity to add things to that game that behave different during the day/night.",!1,20,b5,!1,!1,!1,b7,C.f),e2=T.k(b6,40,b6),e3=e5<800,e4=e3?e5:800
+e4=T.ax(G.b8("assets/images/thegarden/3.PNG",C.v,10,e4,5,e3?e5/2:400,!0),b6,b6)
 s=T.k(b6,20,b6)
 r=T.k(b6,20,b6)
-q=c8?d0:800
-q=T.ax(G.b8("assets/images/thegarden/4.PNG",C.v,10,q,5,c8?d0/2:400,!0),b6,b6)
+q=e3?e5:800
+q=T.ax(G.b8("assets/images/thegarden/4.PNG",C.v,10,q,5,e3?e5/2:400,!0),b6,b6)
 p=T.k(b6,20,b6)
 o=T.k(b6,80,b6)
 n=G.u("Weather cycle",!0,20,b5,!1,!1,!1,b4,C.f)
@@ -60772,12 +60772,12 @@ m=T.k(b6,15,b6)
 l=G.u("There is a basic weather system with a probability of rain starting/stopping.",!1,20,b5,!1,!1,!1,b7,C.f)
 k=G.u("This helps to bring life to the game world. It's currently only cosmetic however it could be used to help teach the water-cycle and also help grow plants in the game.",!1,20,b5,!1,!1,!1,b7,C.f)
 j=T.k(b6,40,b6)
-i=c8?d0:800
-i=T.ax(G.b8("assets/images/thegarden/13.PNG",C.v,10,i,5,c8?d0/2:400,!0),b6,b6)
+i=e3?e5:800
+i=T.ax(G.b8("assets/images/thegarden/13.PNG",C.v,10,i,5,e3?e5/2:400,!0),b6,b6)
 h=T.k(b6,20,b6)
 g=T.k(b6,20,b6)
-f=c8?d0:800
-f=T.ax(G.b8("assets/images/thegarden/15.PNG",C.v,10,f,5,c8?d0/2:400,!0),b6,b6)
+f=e3?e5:800
+f=T.ax(G.b8("assets/images/thegarden/15.PNG",C.v,10,f,5,e3?e5/2:400,!0),b6,b6)
 e=T.k(b6,20,b6)
 d=T.k(b6,80,b6)
 c=G.u("Finding items and crafting them into more complex items",!0,20,b5,!1,!1,!1,b4,C.f)
@@ -60786,21 +60786,21 @@ a=G.u("There are items and resources scattered around the world. The player can 
 a0=T.k(b6,15,b6)
 a1=G.u("For example if the player finds stick and string they can make a slingshot, they can then use this slingshot with rocks they find to knock items off of ledges to gain access to them.",!1,20,b5,!1,!1,!1,b7,C.f)
 a2=T.k(b6,40,b6)
-a3=c8?d0:800
-a3=T.ax(G.b8("assets/images/thegarden/26.PNG",C.v,10,a3,5,c8?d0/2:400,!0),b6,b6)
+a3=e3?e5:800
+a3=T.ax(G.b8("assets/images/thegarden/26.PNG",C.v,10,a3,5,e3?e5/2:400,!0),b6,b6)
 a4=T.k(b6,20,b6)
 a5=T.k(b6,20,b6)
-a6=c8?d0:800
-a6=T.ax(G.b8("assets/images/thegarden/27.PNG",C.v,10,a6,5,c8?d0/2:400,!0),b6,b6)
+a6=e3?e5:800
+a6=T.ax(G.b8("assets/images/thegarden/27.PNG",C.v,10,a6,5,e3?e5/2:400,!0),b6,b6)
 a7=T.k(b6,20,b6)
 a8=T.k(b6,20,b6)
-a9=c8?d0:800
-a9=T.ax(G.b8("assets/images/thegarden/33.PNG",C.v,10,a9,5,c8?d0/2:400,!0),b6,b6)
+a9=e3?e5:800
+a9=T.ax(G.b8("assets/images/thegarden/33.PNG",C.v,10,a9,5,e3?e5/2:400,!0),b6,b6)
 b0=T.k(b6,20,b6)
 b1=T.k(b6,20,b6)
-b2=c8?d0:800
+b2=e3?e5:800
 b3=t.t
-return H.b([T.ec(H.b([M.ab(b6,T.aH(H.b([b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c9,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,T.ax(G.b8("assets/images/thegarden/34.PNG",C.v,10,b2,5,c8?d0/2:400,!0),b6,b6),T.k(b6,40,b6)],b3),C.r,C.l,C.o),b6,b6,b6,b6,b6,b6,d0*0.7),T.k(b6,b6,20),G.Qp(d0)],b3),C.r,C.l)],b3)}}
+return H.b([T.ec(H.b([M.ab(b6,T.aH(H.b([b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1,e2,e4,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,T.ax(G.b8("assets/images/thegarden/34.PNG",C.v,10,b2,5,e3?e5/2:400,!0),b6,b6),T.k(b6,40,b6)],b3),C.r,C.l,C.o),b6,b6,b6,b6,b6,b6,e5*0.7),T.k(b6,b6,20),G.Qp(e5)],b3),C.r,C.l)],b3)}}
 X.qg.prototype={
 bN:function(e3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1="h1",d2="Varela",d3=null,d4="h3",d5=G.u("The Garden",!0,20,d2,!1,!1,!1,d1,C.f),d6=T.k(d3,12,d3),d7=G.u("The Garden is an educational game for KS2 Science. It resembles typical games that kids play after school rather than traditional educational games \u2013 it\u2019s not just an animated spreadsheet.",!1,20,d2,!1,!1,!1,d4,C.f),d8=T.k(d3,12,d3),d9=G.u("It's a 2D game where the player explores a virtual world where they can solve puzzles, collect resources and use them to craft useful items.",!1,20,d2,!1,!1,!1,d4,C.f),e0=T.k(d3,120,d3),e1=e3<800,e2=e1?e3:800
 e2=T.ax(G.b8("assets/images/thegarden/1.PNG",C.v,10,e2,5,e1?e3/2:400,!0),d3,d3)
@@ -60863,7 +60863,7 @@ c9=e1?e3:800
 d0=t.t
 return H.b([T.ec(H.b([M.ab(d3,T.aH(H.b([d5,d6,d7,d8,d9,e0,e2,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,T.ax(G.b8("assets/images/thegarden/39.PNG",C.v,10,c9,5,e1?e3/2:400,!0),d3,d3),T.k(d3,40,d3),T.k(d3,60,d3),G.u("What's unique about the game?",!0,20,d2,!1,!1,!1,d1,C.f),T.k(d3,15,d3),G.u("Currently there are few if any educational games that resemble typical games kids play for fun. The Garden attempts to fill this space by providing an adventure game that just so happens to have a context of KS2 science.",!1,20,d2,!1,!1,!1,d4,C.f),T.k(d3,12,d3),G.u("The careful combination of teaching, entertainment and assessment is a unique aspect of the game, allowing kids, parents and teachers to relate to the game and find use in it.",!1,20,d2,!1,!1,!1,d4,C.f),T.ax(S.t2(this.e,$.avo,e3),d3,d3),T.k(d3,40,d3),K.oN("dashed"),T.k(d3,20,d3),G.dw("Technologies used",H.b(["- Java","- LibGDX","- JSON","- GIT","- Inkscape","- GNU Image Manipulator"],t.i),16)],d0),C.r,C.l,C.o),d3,d3,d3,d3,d3,d3,e3*0.7),T.k(d3,d3,20),G.Qp(e3)],d0),C.r,C.l)],d0)}}
 U.qh.prototype={
-bN:function(e0){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3="h1",c4="Varela",c5=null,c6="h3",c7="assets/images/thegarden/16.PNG",c8=G.u("The Puzzles",!0,20,c4,!1,!1,!1,c3,C.f),c9=T.k(c5,12,c5),d0=G.u("test text.",!1,20,c4,!1,!1,!1,c6,C.f),d1=T.k(c5,12,c5),d2=T.k(c5,80,c5),d3=G.u("Word drag and drop",!0,20,c4,!1,!1,!1,c3,C.f),d4=T.k(c5,15,c5),d5=G.u("A puzzle where the player must drag and drop words into the correct place on a puzzle.",!1,20,c4,!1,!1,!1,c6,C.f),d6=G.u("This could involve labeling an object, or choosing the correct answer from numerous suggestions.",!1,20,c4,!1,!1,!1,c6,C.f),d7=T.k(c5,40,c5),d8=e0<800,d9=d8?e0:800
+bN:function(e0){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3="h1",c4="Varela",c5=null,c6="h3",c7="assets/images/thegarden/16.PNG",c8=G.u("The Puzzles",!0,20,c4,!1,!1,!1,c3,C.f),c9=T.k(c5,12,c5),d0=G.u("This is an overview of the types of puzzles in game. They are used to teach, assess and entertain.",!1,20,c4,!1,!1,!1,c6,C.f),d1=T.k(c5,12,c5),d2=T.k(c5,80,c5),d3=G.u("Word drag and drop",!0,20,c4,!1,!1,!1,c3,C.f),d4=T.k(c5,15,c5),d5=G.u("A puzzle where the player must drag and drop words into the correct place on a puzzle.",!1,20,c4,!1,!1,!1,c6,C.f),d6=G.u("This could involve labeling an object, or choosing the correct answer from numerous suggestions.",!1,20,c4,!1,!1,!1,c6,C.f),d7=T.k(c5,40,c5),d8=e0<800,d9=d8?e0:800
 d9=T.ax(G.b8(c7,C.v,10,d9,5,d8?e0/2:400,!0),c5,c5)
 s=T.k(c5,40,c5)
 r=T.k(c5,80,c5)
